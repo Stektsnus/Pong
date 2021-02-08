@@ -8,7 +8,6 @@ namespace Pong
 {
     static class Program
     {
-        //test 123
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
