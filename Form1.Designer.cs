@@ -4,6 +4,7 @@ namespace Pong
     partial class Form1
     {
         // Sebastians branch test
+        // Test 2
         /// <summary>
         ///  Required designer variable.
         /// </summary>
