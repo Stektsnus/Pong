@@ -1,0 +1,16 @@
+C:\Users\Savio\Desktop\C# Pong\Pong\bin\Debug\netcoreapp3.1\Pong.exe
+C:\Users\Savio\Desktop\C# Pong\Pong\bin\Debug\netcoreapp3.1\Pong.deps.json
+C:\Users\Savio\Desktop\C# Pong\Pong\bin\Debug\netcoreapp3.1\Pong.runtimeconfig.json
+C:\Users\Savio\Desktop\C# Pong\Pong\bin\Debug\netcoreapp3.1\Pong.runtimeconfig.dev.json
+C:\Users\Savio\Desktop\C# Pong\Pong\bin\Debug\netcoreapp3.1\Pong.dll
+C:\Users\Savio\Desktop\C# Pong\Pong\bin\Debug\netcoreapp3.1\Pong.pdb
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.csprojAssemblyReference.cache
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.Form1.resources
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.csproj.GenerateResource.cache
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.AssemblyInfoInputs.cache
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.AssemblyInfo.cs
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.dll
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.pdb
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.genruntimeconfig.cache
+C:\Users\Savio\Desktop\C# Pong\Pong\obj\Debug\netcoreapp3.1\Pong.Properties.Resources.resources
