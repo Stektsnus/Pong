@@ -5,6 +5,7 @@ namespace Pong
     {
         // Sebastians branch test
         // Test 2
+        // Test 3
         /// <summary>
         ///  Required designer variable.
         /// </summary>
