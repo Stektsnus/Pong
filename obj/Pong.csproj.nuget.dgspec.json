@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erika\\Source\\Repos\\Pong3\\Pong.csproj": {}
+    "C:\\Users\\sebas\\Dropbox\\Programmering\\vs\\Agiltprojekt\\Pong\\Pong\\Pong.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erika\\Source\\Repos\\Pong3\\Pong.csproj": {
+    "C:\\Users\\sebas\\Dropbox\\Programmering\\vs\\Agiltprojekt\\Pong\\Pong\\Pong.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erika\\Source\\Repos\\Pong3\\Pong.csproj",
+        "projectUniqueName": "C:\\Users\\sebas\\Dropbox\\Programmering\\vs\\Agiltprojekt\\Pong\\Pong\\Pong.csproj",
         "projectName": "Pong",
-        "projectPath": "C:\\Users\\erika\\Source\\Repos\\Pong3\\Pong.csproj",
-        "packagesPath": "C:\\Users\\erika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erika\\Source\\Repos\\Pong3\\obj\\",
+        "projectPath": "C:\\Users\\sebas\\Dropbox\\Programmering\\vs\\Agiltprojekt\\Pong\\Pong\\Pong.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebas\\Dropbox\\Programmering\\vs\\Agiltprojekt\\Pong\\Pong\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\erika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
